@@ -8,7 +8,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab]([https://github.com/](https://github.com/Vluthor/Active-Directory-Lab/tree/main)
+- [Active Directory Home Lab](https://github.com/Vluthor/Active-Directory-Lab)
 - [Hello World!]
 
 <h2>- Certifications</h2>
