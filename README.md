@@ -13,7 +13,7 @@
 
 <h2>- Certifications</h2>
 
-- [CompTIA Security+] (Expected 12/23)
+- [CompTIA Security+] 
 - [Google Cybersecurity Professional Certification]
 - [Certified data security specialist]
 - [Qualys Vulnerability Management] 
