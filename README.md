@@ -1,6 +1,6 @@
 <h1>Hi, I'm Valiant! 
 
-<h2>Anchored in integrity, I weave through digital footprints with precision, safeguarding individual rights with every click. My expertise goes beyond just understanding data; I craft tailored cybersecurity strategies for today's recruiters and government needs. Passionate and proactive, I'm dedicated to ensuring every byte is both secure and strategically managed.</h2>
+<h2>As a dedicated cybersecurity analyst, I bring unwavering integrity and meticulous attention to digital landscapes. My expertise lies in dissecting and interpreting complex data patterns, crafting robust security strategies tailored to the unique challenges faced by recruiters and government entities. Driven by a passion for safeguarding digital information, my approach combines deep technical acumen with proactive vigilance. I am committed to ensuring the security and strategic integrity of data, making every byte count in the fight against digital threats.</h2>
 
 
 
