@@ -14,7 +14,7 @@ Certified in cybersecurity, I have hands-on experience with tools like VMWare, W
 - [Sentinel-Lab](https://github.com/Vluthor/SIEM-Azure-Sentinel-Lab)
 - Demonstrates the setup and management of a cloud-based Security Information and Event Management (SIEM) solution with Azure Sentinel, including real-time monitoring and threat detection.
 
-<h2>- 📜 Certifications</h2>
+<h2> 📜 Certifications</h2>
 
 - [CompTIA Security+] 
 - [Google Cybersecurity Professional Certification]
