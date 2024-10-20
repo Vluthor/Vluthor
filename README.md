@@ -11,7 +11,7 @@ Certified in cybersecurity, I have hands-on experience with tools like VMWare, W
 
 - [Active Directory Home Lab](https://github.com/Vluthor/Active-Directory-Lab)
 - Simulates an enterprise network environment, showcasing Active Directory setup, user/group management, and network security practices.
-- [Sentinel-Lab](https://github.com/Vluthor/SIEM-Azure-Sentinel-Lab)
+- [Auzre Sentinel Honey Net-Lab](https://github.com/Vluthor/SIEM-Azure-Sentinel-Lab)
 - Demonstrates the setup and management of a cloud-based Security Information and Event Management (SIEM) solution with Azure Sentinel, including real-time monitoring and threat detection.</h2>
 
 
