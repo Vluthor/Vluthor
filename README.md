@@ -12,21 +12,22 @@ Certified in cybersecurity, I have hands-on experience with tools like VMWare, W
 - [Active Directory Home Lab](https://github.com/Vluthor/Active-Directory-Lab)
 - Simulates an enterprise network environment, showcasing Active Directory setup, user/group management, and network security practices.
 - [Sentinel-Lab](https://github.com/Vluthor/SIEM-Azure-Sentinel-Lab)
-- Demonstrates the setup and management of a cloud-based Security Information and Event Management (SIEM) solution with Azure Sentinel, including real-time monitoring and threat detection.
+- Demonstrates the setup and management of a cloud-based Security Information and Event Management (SIEM) solution with Azure Sentinel, including real-time monitoring and threat detection.</h2>
 
-<h2> 📜 Certifications</h2>
 
-- [CompTIA Security+] 
-- [Google Cybersecurity Professional Certification]
-- [Certified data security specialist]
-- [Qualys Vulnerability Management] 
-- [Qualys Certified Specialist] 
+<h2>📜 Certifications </h2>
+
+- CompTIA Security+
+- Google Cybersecurity Professional 
+- Certified Data Security Specialist
+- Qualys Vulnerability Management 
+- Qualys Certified Specialist
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Valiant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](https://linkedin.com/in/valiant-cb)
 
-[linkedin]: https://linkedin.com/in/valiant-cb
+
 
 
 <!--
