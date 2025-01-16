@@ -1,13 +1,10 @@
 <h1>Hi, I'm Valiant! 👋</h1>
 
-<p>With over 7 years of expertise in cybersecurity and system administration, I specialize in securing digital infrastructures for businesses and government entities. My skill set spans threat detection, incident response, vulnerability management, and developing robust security strategies.</p>
+<p>I specialize in securing digital infrastructures for businesses and government entities, with expertise in threat detection, incident response, vulnerability management, and developing robust security strategies.</p>
 
 <p>I’ve worked with diverse tools and platforms like <b>Azure Sentinel</b>, <b>Qualys</b>, <b>PowerShell</b>, and <b>Active Directory</b>, enabling me to automate processes and safeguard IT environments. Let's connect and collaborate!</p>
 
----
-
 <h2>🛡️ Cybersecurity Projects:</h2>
-
 <ul>
   <li>
     <a href="https://github.com/Vluthor/Phishing-Email-Analysis-and-Defensive-Measures"><b>Phishing Email Analysis and Defensive Measures</b></a>
@@ -21,7 +18,15 @@
     <a href="https://github.com/Vluthor/SIEM-Azure-Sentinel-Lab"><b>Azure Sentinel Honey Net-Lab</b></a>
     <p style="margin-left: 20px;">Set up a cloud-based Security Information and Event Management (SIEM) solution using Azure Sentinel, with real-time monitoring and threat detection.</p>
   </li>
+  <li>
+    <a href="https://github.com/Vluthor/Threat-Detection-SOC-Analysis"><b>Threat Detection SOC Analysis</b></a>
+    <p style="margin-left: 20px;">
+      Conducted a detailed analysis of the 2022 Threat Detection Report, focusing on critical vulnerabilities like ProxyLogon, ProxyShell, and PrintNightmare. 
+      Documented adversary tactics such as Gootkit's SEO poisoning and Yellow Cockatoo's phishing campaigns, and provided actionable SOC detection rules and remediation strategies.
+    </p>
+  </li>
 </ul>
+
 
 ---
 
