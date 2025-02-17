@@ -1,56 +1,74 @@
 # Hi, I'm Valiant! 👋
 
-I specialize in securing digital infrastructures for businesses and government entities, with expertise in threat detection, incident response, vulnerability management, and developing robust security strategies.
+I specialize in securing digital infrastructures for businesses and government entities, focusing on **threat detection, incident response, vulnerability management, and security automation**. My expertise spans across platforms like **Azure Sentinel, Qualys, PowerShell, and Active Directory**, enabling me to develop **robust defense strategies** and automate security operations.
 
-I’ve worked with diverse tools and platforms like **Azure Sentinel**, **Qualys**, **PowerShell**, and **Active Directory**, enabling me to automate processes and safeguard IT environments. Let's connect and collaborate!
+Let's connect and collaborate on **building resilient security solutions**.
 
 ---
 
 ## 🛡️ Cybersecurity Projects:
 
+### **Deception-Based Security Projects**
+#### **Proactive Threat Detection Through Honeypots & CanaryTokens**
+- **[Canary Tokens – Detecting Unauthorized Access](https://github.com/Vluthor/Canary-Tokens)**
+  - Implemented **decoy Word documents** embedded with CanaryTokens to detect unauthorized access attempts.
+  - Captured attacker metadata, including **IP address, timestamp, user-agent, and geolocation** upon interaction.
+  - Demonstrated how deception-based security can **reveal unauthorized users before real damage occurs**.
+
+---
+
+### **Security Research & Threat Analysis**
 - **[Phishing Email Analysis and Defensive Measures](https://github.com/Vluthor/Phishing-Email-Analysis-and-Defensive-Measures)**
-  - Analyzed a phishing attack, including email header inspection, hash verification, and implemented actionable defensive measures to block malicious artifacts.
+  - Conducted in-depth analysis of a **real phishing attack**, including email header inspection and malware hash verification.
+  - Implemented defensive measures to **block and mitigate phishing threats**.
 
 - **[Phishing Email Defensive Measures](https://github.com/Vluthor/Phishing-Email-Defensive-Measures-)**
-  - Expanded on phishing analysis by focusing on documenting and implementing robust defensive measures against malicious artifacts.
-
-- **[Active Directory Home Lab](https://github.com/Vluthor/Active-Directory-Lab)**
-  - Simulated an enterprise network environment, showcasing Active Directory setup, user/group management, and network security practices.
-
-- **[Azure Sentinel Honey Net-Lab](https://github.com/Vluthor/SIEM-Azure-Sentinel-Lab)**
-  - Set up a cloud-based Security Information and Event Management (SIEM) solution using Azure Sentinel, with real-time monitoring and threat detection.
+  - Expanded on phishing analysis with **documented remediation steps** and proactive defenses.
+  - Focused on **email filtering techniques, domain reputation analysis, and SOC-level response**.
 
 - **[Threat Detection SOC Analysis](https://github.com/Vluthor/Threat-Detection-SOC-Analysis)**
-  - Conducted a detailed analysis of the 2022 Threat Detection Report, focusing on critical vulnerabilities like ProxyLogon, ProxyShell, and PrintNightmare.
-  - Documented adversary tactics such as Gootkit's SEO poisoning and Yellow Cockatoo's phishing campaigns, and provided actionable SOC detection rules and remediation strategies.
+  - Examined the **2022 Threat Detection Report**, analyzing vulnerabilities such as **ProxyLogon, ProxyShell, and PrintNightmare**.
+  - Documented **adversary tactics** (e.g., Gootkit’s SEO poisoning, Yellow Cockatoo’s phishing campaigns).
+  - Developed **SOC detection rules** and remediation strategies.
+
+---
+
+### **Security Automation & Blue Team Operations**
+- **[Active Directory Home Lab](https://github.com/Vluthor/Active-Directory-Lab)**
+  - Built a **virtual enterprise network** to simulate **Active Directory attacks & defenses**.
+  - Configured **Group Policies, user permissions, and SIEM monitoring**.
+
+- **[Azure Sentinel Honey Net-Lab](https://github.com/Vluthor/SIEM-Azure-Sentinel-Lab)**
+  - Deployed a **cloud-based SIEM (Security Information and Event Management) solution** using **Azure Sentinel**.
+  - Configured real-time log ingestion, **alert rules, and threat detection queries**.
 
 ---
 
 ## 📜 Certifications:
 
-- CompTIA Security+
-- Google Cybersecurity Professional Certification
-- Certified Data Security Specialist
-- Qualys Vulnerability Management
-- Qualys Certified Specialist
+- **CompTIA Security+**
+- **Google Cybersecurity Professional Certification**
+- **Certified Data Security Specialist**
+- **Qualys Vulnerability Management**
+- **Qualys Certified Specialist**
 
 ---
 
 ## ⚙️ Technical Skills:
 
-- SIEM (Azure Sentinel, AWS SIEM)
-- Active Directory & Windows Server
-- PowerShell & Automation
-- Vulnerability Management (Qualys, Nessus, Automox)
-- Cloud Platforms: Azure, AWS
-- Network Security (Firewalls, VPNs, Wireshark)
+- **SIEM Platforms:** Azure Sentinel, AWS SIEM, Splunk  
+- **Active Directory & Windows Server:** Domain management, security hardening  
+- **PowerShell & Security Automation:** Custom scripts for threat detection  
+- **Vulnerability Management:** Qualys, Nessus, Automox  
+- **Cloud Security:** Azure & AWS infrastructure security  
+- **Network Security:** Firewalls, VPNs, Wireshark packet analysis  
 
 ---
-<h2>🤝 Connect with Me:</h2>
+
+## 📢 Connect with Me:
 
 <p>
   <a href="https://linkedin.com/in/valiant-cb">
     <img align="left" alt="LinkedIn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
   </a>
 </p>
-
