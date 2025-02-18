@@ -2,8 +2,6 @@
 
 I specialize in securing digital infrastructures for businesses and government entities, focusing on **threat detection, incident response, vulnerability management, and security automation**. My expertise spans across platforms like **Azure Sentinel, Qualys, PowerShell, and Active Directory**, enabling me to develop **robust defense strategies** and automate security operations.
 
-Let's connect and collaborate on **building resilient security solutions**.
-
 ---
 
 ## 🛡️ Cybersecurity Projects:
