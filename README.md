@@ -18,6 +18,12 @@ Let's connect and collaborate on **building resilient security solutions**.
 ---
 
 ### **Security Research & Threat Analysis**
+- **[OSSEC: File Integrity Monitoring & Log4Shell Detection](https://github.com/Vluthor/OSSEC-File-Integrity-Monitoring)**
+  - Configured **OSSEC HIDS** to **monitor unauthorized file changes** and detect system modifications.
+  - Used **Nessus** to **scan for Log4Shell (CVE-2021-44228)** across vulnerable systems.
+  - Investigated **OSSEC rule sets, system logs, and alert triggers** to strengthen security monitoring.
+  - **Analyzed real-world attack scenarios** using file integrity monitoring and log-based detection.
+
 - **[Phishing Email Analysis and Defensive Measures](https://github.com/Vluthor/Phishing-Email-Analysis-and-Defensive-Measures)**
   - Conducted in-depth analysis of a **real phishing attack**, including email header inspection and malware hash verification.
   - Implemented defensive measures to **block and mitigate phishing threats**.
