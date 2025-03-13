@@ -35,6 +35,12 @@ I specialize in securing digital infrastructures for businesses and government e
   - Documented **adversary tactics** (e.g., Gootkit’s SEO poisoning, Yellow Cockatoo’s phishing campaigns).
   - Developed **SOC detection rules** and remediation strategies.
 
+- **[Network Forensics Analysis with Wireshark and Zui](https://github.com/Vluthor/Network-Forensics-Analysis-with-Wireshark-and-Zui/tree/main)**
+  - Conducted a comprehensive analysis of a network traffic capture file to investigate a security incident.
+  - Utilized **Wireshark** for detailed packet inspection and **Zui (Brim)** for alert analysis and traffic visualization.
+  - Identified key indicators of compromise, including malware origin, exfiltration channels, and attacker credentials.
+  - Demonstrated the process of filtering traffic, identifying connection durations, and extracting meaningful insights from network data.
+
 ---
 
 ### **Security Automation & Blue Team Operations**
