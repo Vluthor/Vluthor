@@ -13,6 +13,10 @@ I specialize in securing digital infrastructures for businesses and government e
   - Captured attacker metadata, including **IP address, timestamp, user-agent, and geolocation** upon interaction.
   - Demonstrated how deception-based security can **reveal unauthorized users before real damage occurs**.
 
+- **[Endpoint Threat Hunting – Persistence, PsExec, and LSASS Analysis](https://github.com/Vluthor/-Endpoint-Threat-Hunting)**
+  - Walked through detection of **scheduled tasks**, **PsExec lateral movement**, and **LSASS access** using Elastic Stack.
+  - Demonstrated **KQL queries**, process behavior analysis, and mapping to **MITRE ATT&CK tactics**.
+  - Focused on **why each log matters**, **how attackers move**, and **what defenders should be watching for**.
 ---
 
 ### **Security Research & Threat Analysis**
@@ -51,6 +55,7 @@ I specialize in securing digital infrastructures for businesses and government e
 - **[Azure Sentinel Honey Net-Lab](https://github.com/Vluthor/SIEM-Azure-Sentinel-Lab)**
   - Deployed a **cloud-based SIEM (Security Information and Event Management) solution** using **Azure Sentinel**.
   - Configured real-time log ingestion, **alert rules, and threat detection queries**.
+
 
 ---
 
