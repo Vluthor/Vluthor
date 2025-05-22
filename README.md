@@ -1,89 +1,82 @@
-# Hi, I'm Valiant! 👋
+# 👋 Hi, I'm Valiant – Cybersecurity Specialist | SOC Analyst 
 
-I specialize in securing digital infrastructures for businesses and government entities, focusing on **threat detection, incident response, vulnerability management, and security automation**. My expertise spans across platforms like **Azure Sentinel, Qualys, PowerShell, and Active Directory**, enabling me to develop **robust defense strategies** and automate security operations.
-
----
-
-## 🛡️ Cybersecurity Projects:
-
-### **Deception-Based Security Projects**
-#### **Proactive Threat Detection Through Honeypots & CanaryTokens**
-- **[Canary Tokens – Detecting Unauthorized Access](https://github.com/Vluthor/Canary-Tokens)**
-  - Implemented **decoy Word documents** embedded with CanaryTokens to detect unauthorized access attempts.
-  - Captured attacker metadata, including **IP address, timestamp, user-agent, and geolocation** upon interaction.
-  - Demonstrated how deception-based security can **reveal unauthorized users before real damage occurs**.
-
-- **[Endpoint Threat Hunting – Persistence, PsExec, and LSASS Analysis](https://github.com/Vluthor/-Endpoint-Threat-Hunting)**
-  - Walked through detection of **scheduled tasks**, **PsExec lateral movement**, and **LSASS access** using Elastic Stack.
-  - Demonstrated **KQL queries**, process behavior analysis, and mapping to **MITRE ATT&CK tactics**.
-  - Focused on **why each log matters**, **how attackers move**, and **what defenders should be watching for**.
----
-
-### **Security Research & Threat Analysis**
-- **[OSSEC: File Integrity Monitoring & Log4Shell Detection](https://github.com/Vluthor/OSSEC-File-Integrity-Monitoring)**
-  - Configured **OSSEC HIDS** to **monitor unauthorized file changes** and detect system modifications.
-  - Used **Nessus** to **scan for Log4Shell (CVE-2021-44228)** across vulnerable systems.
-  - Investigated **OSSEC rule sets, system logs, and alert triggers** to strengthen security monitoring.
-  - **Analyzed real-world attack scenarios** using file integrity monitoring and log-based detection.
-
-- **[Phishing Email Analysis and Defensive Measures](https://github.com/Vluthor/Phishing-Email-Analysis-and-Defensive-Measures)**
-  - Conducted in-depth analysis of a **real phishing attack**, including email header inspection and malware hash verification.
-  - Implemented defensive measures to **block and mitigate phishing threats**.
-
-- **[Phishing Email Defensive Measures](https://github.com/Vluthor/Phishing-Email-Defensive-Measures-)**
-  - Expanded on phishing analysis with **documented remediation steps** and proactive defenses.
-  - Focused on **email filtering techniques, domain reputation analysis, and SOC-level response**.
-
-- **[Threat Detection SOC Analysis](https://github.com/Vluthor/Threat-Detection-SOC-Analysis)**
-  - Examined the **2022 Threat Detection Report**, analyzing vulnerabilities such as **ProxyLogon, ProxyShell, and PrintNightmare**.
-  - Documented **adversary tactics** (e.g., Gootkit’s SEO poisoning, Yellow Cockatoo’s phishing campaigns).
-  - Developed **SOC detection rules** and remediation strategies.
-
-- **[Network Forensics Analysis with Wireshark and Zui](https://github.com/Vluthor/Network-Forensics-Analysis-with-Wireshark-and-Zui/tree/main)**
-  - Conducted a comprehensive analysis of a network traffic capture file to investigate a security incident.
-  - Utilized **Wireshark** for detailed packet inspection and **Zui (Brim)** for alert analysis and traffic visualization.
-  - Identified key indicators of compromise, including malware origin, exfiltration channels, and attacker credentials.
-  - Demonstrated the process of filtering traffic, identifying connection durations, and extracting meaningful insights from network data.
+I specialize in protecting digital infrastructure through **threat detection**, **incident response**, **malware analysis**, and **security automation**. My core strength is combining hands-on detection skills with tools like **Azure Sentinel**, **Qualys**, **Wireshark**, **Active Directory**, and **PowerShell** to design actionable, real-time security defenses for businesses and government entities.
 
 ---
 
-### **Security Automation & Blue Team Operations**
-- **[Active Directory Home Lab](https://github.com/Vluthor/Active-Directory-Lab)**
-  - Built a **virtual enterprise network** to simulate **Active Directory attacks & defenses**.
-  - Configured **Group Policies, user permissions, and SIEM monitoring**.
+## 🛡️ Cybersecurity & Blue Team Projects
 
-- **[Azure Sentinel Honey Net-Lab](https://github.com/Vluthor/SIEM-Azure-Sentinel-Lab)**
-  - Deployed a **cloud-based SIEM (Security Information and Event Management) solution** using **Azure Sentinel**.
-  - Configured real-time log ingestion, **alert rules, and threat detection queries**.
+### 🔐 Deception-Based Threat Detection
+- **[Canary Tokens – Honeypots for Unauthorized Access Detection](https://github.com/Vluthor/Canary-Tokens)**  
+  Deployed CanaryTokens inside decoy Word docs to detect and track unauthorized access attempts. Captured detailed attacker metadata including IP address, timestamp, and geolocation — showcasing early-stage threat detection through deception-based defense.
 
-
----
-
-## 📜 Certifications:
-
-- **CompTIA Security+**
-- **Google Cybersecurity Professional Certification**
-- **Certified Data Security Specialist**
-- **Qualys Vulnerability Management**
-- **Qualys Certified Specialist**
+- **[Endpoint Threat Hunting – Persistence, PsExec, and Credential Access](https://github.com/Vluthor/-Endpoint-Threat-Hunting)**  
+  Used Elastic Stack to detect scheduled tasks, PsExec lateral movement, and LSASS access. Wrote KQL queries, analyzed process behavior, and mapped findings to MITRE ATT&CK. Focused on visibility into attacker movement and detection across endpoints.
 
 ---
 
-## ⚙️ Technical Skills:
-
-- **SIEM Platforms:** Azure Sentinel, AWS SIEM, Splunk  
-- **Active Directory & Windows Server:** Domain management, security hardening  
-- **PowerShell & Security Automation:** Custom scripts for threat detection  
-- **Vulnerability Management:** Qualys, Nessus, Automox  
-- **Cloud Security:** Azure & AWS infrastructure security  
-- **Network Security:** Firewalls, VPNs, Wireshark packet analysis  
+### 🧬 Malware Analysis & Reverse Engineering
+- **[Oski Malware Analysis – Behavioral Breakdown of Stealc Variant](https://github.com/Vluthor/Oski-Malware-Analysis-)**  
+  Conducted full sandbox analysis of Oski/Stealc malware using ANY.RUN and VirusTotal. Discovered RC4 decryption keys, C2 servers, and self-deletion behavior. Mapped activity to **MITRE ATT&CK T1555 – Credential from Password Stores**, with IOC documentation and screenshots.
 
 ---
 
-## 📢 Connect with Me:
+### 📡 Threat Intelligence & Incident Analysis
+- **[Phishing Email Analysis & Defensive Playbooks](https://github.com/Vluthor/Phishing-Email-Analysis-and-Defensive-Measures)**  
+  Broke down a real phishing email with header forensics, malware hash scanning, and remediation. Built defensive layers using filtering rules, domain reputation tools, and custom SOC-level response steps.
 
-<p>
-  <a href="https://linkedin.com/in/valiant-cb">
-    <img align="left" alt="LinkedIn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
-  </a>
+- **[Threat Detection SOC Analysis](https://github.com/Vluthor/Threat-Detection-SOC-Analysis)**  
+  Reviewed 2022 detection trends including ProxyLogon, ProxyShell, and PrintNightmare. Documented adversary behaviors from Gootkit, Yellow Cockatoo, and others. Created detection rules and blue team response strategies.
+
+- **[OSSEC File Integrity Monitoring & Log4Shell Detection](https://github.com/Vluthor/OSSEC-File-Integrity-Monitoring)**  
+  Configured OSSEC HIDS to detect file tampering and monitor system modifications. Used Nessus to scan for Log4Shell vulnerabilities (CVE-2021-44228). Strengthened alerting through ruleset customization and log correlation.
+
+---
+
+### 🌐 Network & Forensics Analysis
+- **[Network Forensics with Wireshark & Zui](https://github.com/Vluthor/Network-Forensics-Analysis-with-Wireshark-and-Zui)**  
+  Investigated real-world network traffic using PCAP analysis in Wireshark and Suricata/Zui. Identified IOCs, malware payloads, C2 communications, and exfiltration events. Focused on translating raw traffic into attacker timelines.
+
+---
+
+### 🏢 Enterprise Security & Automation
+- **[Active Directory Home Lab – AD Attack & Defense Simulation](https://github.com/Vluthor/Active-Directory-Lab)**  
+  Built a virtual enterprise AD network to simulate privilege escalation and policy abuse. Implemented Group Policy hardening, user privilege audits, and SIEM log correlation to detect anomalies.
+
+- **[Azure Sentinel SIEM – Cloud-Based Detection Lab](https://github.com/Vluthor/SIEM-Azure-Sentinel-Lab)**  
+  Deployed Azure Sentinel and configured custom alert rules for cloud-based threat detection. Integrated multiple log sources to build real-time dashboards and generate detections mapped to ATT&CK.
+
+---
+
+## 📜 Certifications
+
+- ✅ **CompTIA Security+**
+- ✅ **Google Cybersecurity Professional Certificate**
+- ✅ **Certified Data Security Specialist**
+- ✅ **Qualys Vulnerability Management**
+- ✅ **Qualys Certified Specialist**
+
+---
+
+## ⚙️ Technical Skills
+
+| Category | Tools / Skills |
+|---------|----------------|
+| **SIEM & Detection** | Azure Sentinel, Elastic Stack, Splunk, Zui (Brim), Suricata |
+| **Scripting & Automation** | PowerShell, Scheduled Task detection, custom SOC tooling |
+| **Endpoint & Infra Security** | Windows Server, Active Directory, Group Policy, Automox |
+| **Network Security** | Wireshark, VPNs, Firewall rule analysis |
+| **Vulnerability Management** | Qualys, Nessus, remediation strategies |
+| **Threat Hunting & Analysis** | MITRE ATT&CK, IOC analysis, real-time sandboxing (ANY.RUN) |
+
+---
+
+## 📢 Let’s Connect
+
+<a href="https://linkedin.com/in/valiant-cb">
+  <img align="left" alt="LinkedIn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+</a>
+
+<p style="margin-left:40px;">
+I'm always open to collaborations, threat research, and blue team roles. Let’s connect and secure something great.
 </p>
