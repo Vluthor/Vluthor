@@ -1,82 +1,94 @@
-# 👋 Hi, I'm Valiant – Cybersecurity Specialist | SOC Analyst 
+# 👋 I’m Valiant. I build detections that expose real threats
 
-I specialize in protecting digital infrastructure through **threat detection**, **incident response**, **malware analysis**, and **security automation**. My core strength is combining hands-on detection skills with tools like **Azure Sentinel**, **Qualys**, **Wireshark**, **Active Directory**, and **PowerShell** to design actionable, real-time security defenses for businesses and government entities.
+I don’t just review alerts. I engineer the logic behind them
 
----
+I work across Elastic, Sentinel, Zeek, Suricata, PowerShell, Active Directory, and Wireshark to catch what attackers try to hide — from lateral movement to credential theft and persistence techniques
 
-## 🛡️ Cybersecurity & Blue Team Projects
-
-### 🔐 Deception-Based Threat Detection
-- **[Canary Tokens – Honeypots for Unauthorized Access Detection](https://github.com/Vluthor/Canary-Tokens)**  
-  Deployed CanaryTokens inside decoy Word docs to detect and track unauthorized access attempts. Captured detailed attacker metadata including IP address, timestamp, and geolocation — showcasing early-stage threat detection through deception-based defense.
-
-- **[Endpoint Threat Hunting – Persistence, PsExec, and Credential Access](https://github.com/Vluthor/-Endpoint-Threat-Hunting)**  
-  Used Elastic Stack to detect scheduled tasks, PsExec lateral movement, and LSASS access. Wrote KQL queries, analyzed process behavior, and mapped findings to MITRE ATT&CK. Focused on visibility into attacker movement and detection across endpoints.
+My labs and projects reflect how threats operate in real environments and how defenders should shut them down fast
 
 ---
 
-### 🧬 Malware Analysis & Reverse Engineering
-- **[Oski Malware Analysis – Behavioral Breakdown of Stealc Variant](https://github.com/Vluthor/Oski-Malware-Analysis-)**  
-  Conducted full sandbox analysis of Oski/Stealc malware using ANY.RUN and VirusTotal. Discovered RC4 decryption keys, C2 servers, and self-deletion behavior. Mapped activity to **MITRE ATT&CK T1555 – Credential from Password Stores**, with IOC documentation and screenshots.
+## 🔥 Detection Labs and Projects
 
----
+### 🎯 Threat Detection and Hunting
 
-### 📡 Threat Intelligence & Incident Analysis
-- **[Phishing Email Analysis & Defensive Playbooks](https://github.com/Vluthor/Phishing-Email-Analysis-and-Defensive-Measures)**  
-  Broke down a real phishing email with header forensics, malware hash scanning, and remediation. Built defensive layers using filtering rules, domain reputation tools, and custom SOC-level response steps.
+- **[Canary Tokens for Early Threat Traps](https://github.com/Vluthor/Canary-Tokens)**  
+  Tracked unauthorized access using embedded canary links and decoy documents. Captured attacker metadata instantly for SOC-level visibility
+
+- **[Endpoint Threat Hunting with Elastic](https://github.com/Vluthor/Endpoint-Threat-Hunting)**  
+  Detected LSASS access, scheduled task persistence, and PsExec lateral movement. Used KQL to map attacker actions with clear detection logic
 
 - **[Threat Detection SOC Analysis](https://github.com/Vluthor/Threat-Detection-SOC-Analysis)**  
-  Reviewed 2022 detection trends including ProxyLogon, ProxyShell, and PrintNightmare. Documented adversary behaviors from Gootkit, Yellow Cockatoo, and others. Created detection rules and blue team response strategies.
-
-- **[OSSEC File Integrity Monitoring & Log4Shell Detection](https://github.com/Vluthor/OSSEC-File-Integrity-Monitoring)**  
-  Configured OSSEC HIDS to detect file tampering and monitor system modifications. Used Nessus to scan for Log4Shell vulnerabilities (CVE-2021-44228). Strengthened alerting through ruleset customization and log correlation.
+  Documented real-world threat activity from campaigns like ProxyShell, PrintNightmare, and Gootkit. Built detection strategies mapped to MITRE ATT&CK
 
 ---
 
-### 🌐 Network & Forensics Analysis
-- **[Network Forensics with Wireshark & Zui](https://github.com/Vluthor/Network-Forensics-Analysis-with-Wireshark-and-Zui)**  
-  Investigated real-world network traffic using PCAP analysis in Wireshark and Suricata/Zui. Identified IOCs, malware payloads, C2 communications, and exfiltration events. Focused on translating raw traffic into attacker timelines.
+### 🧠 Malware and Forensics
+
+- **[Oski Stealc Malware Analysis](https://github.com/Vluthor/Oski-Malware-Analysis)**  
+  Identified self-deletion routines, RC4 encryption behavior, and credential harvesting from password stores. Mapped activity to threat techniques
+
+- **[Network Forensics with Wireshark and Zui](https://github.com/Vluthor/Network-Forensics-Analysis-with-Wireshark-and-Zui)**  
+  Investigated real PCAPs to extract IOCs, detect C2 traffic, and track attacker movement through the network using Zeek and Suricata
+
+- **[Phishing Email Analysis and Defensive Measures](https://github.com/Vluthor/Phishing-Email-Analysis-and-Defensive-Measures)**  
+  Analyzed phishing headers, traced malicious links, and created layered defense playbooks for SOC teams
 
 ---
 
-### 🏢 Enterprise Security & Automation
-- **[Active Directory Home Lab – AD Attack & Defense Simulation](https://github.com/Vluthor/Active-Directory-Lab)**  
-  Built a virtual enterprise AD network to simulate privilege escalation and policy abuse. Implemented Group Policy hardening, user privilege audits, and SIEM log correlation to detect anomalies.
+### 🏢 Enterprise Simulation and Security Automation
 
-- **[Azure Sentinel SIEM – Cloud-Based Detection Lab](https://github.com/Vluthor/SIEM-Azure-Sentinel-Lab)**  
-  Deployed Azure Sentinel and configured custom alert rules for cloud-based threat detection. Integrated multiple log sources to build real-time dashboards and generate detections mapped to ATT&CK.
+- **[Active Directory Home Lab](https://github.com/Vluthor/Active-Directory-Lab)**  
+  Simulated privilege escalation and policy abuse in a live AD network. Hardened GPO settings and tested log visibility across endpoints
+
+- **[Azure Sentinel SIEM Detection Lab](https://github.com/Vluthor/SIEM-Azure-Sentinel-Lab)**  
+  Created custom alert rules for cloud-based incidents. Integrated log sources and visualized detection paths in real time
+
+- **[OSSEC File Integrity Monitoring](https://github.com/Vluthor/OSSEC-File-Integrity-Monitoring)**  
+  Detected unauthorized file changes and scanned for Log4Shell. Customized alert rules and log correlation to strengthen visibility
+
+---
+
+## 📚 What I'm Studying and Building
+
+- Network forensics and PCAP analysis with Wireshark and Zeek
+- Malware behavior and live memory analysis
+- Credential dumping techniques using Event Logs and Sysmon
+- Scheduled task persistence and detection logic
+- Threat hunting in Elastic with ATT&CK-aligned KQL
+- Security frameworks including PCI DSS and NIST 800-53
 
 ---
 
 ## 📜 Certifications
 
-- ✅ **CompTIA Security+**
-- ✅ **Google Cybersecurity Professional Certificate**
-- ✅ **Certified Data Security Specialist**
-- ✅ **Qualys Vulnerability Management**
-- ✅ **Qualys Certified Specialist**
+- CompTIA Security+
+- Google Cybersecurity Professional Certificate
+- Certified Data Security Specialist
+- Qualys Vulnerability Management
+- Qualys Certified Specialist
 
 ---
 
-## ⚙️ Technical Skills
+## 💻 Skills and Tools
 
-| Category | Tools / Skills |
-|---------|----------------|
-| **SIEM & Detection** | Azure Sentinel, Elastic Stack, Splunk, Zui (Brim), Suricata |
-| **Scripting & Automation** | PowerShell, Scheduled Task detection, custom SOC tooling |
-| **Endpoint & Infra Security** | Windows Server, Active Directory, Group Policy, Automox |
-| **Network Security** | Wireshark, VPNs, Firewall rule analysis |
-| **Vulnerability Management** | Qualys, Nessus, remediation strategies |
-| **Threat Hunting & Analysis** | MITRE ATT&CK, IOC analysis, real-time sandboxing (ANY.RUN) |
+| Domain | Tools |
+|--------|-------|
+| Threat Detection | Elastic, Sentinel, Zeek, Suricata, Splunk |
+| Malware and Forensics | ANY.RUN, Wireshark, memory analysis, IOC tracking |
+| Infrastructure | Windows Server, AD, GPO, Automox |
+| Scripting | PowerShell, Scheduled Task tracking |
+| SOC and IR | MITRE ATT&CK, KQL, log correlation |
+| Frameworks | PCI DSS, NIST |
 
 ---
 
-## 📢 Let’s Connect
+Always exploring new ways to expose attacker behavior. This isn’t theory. These are my labs. This is what I do
 
-<a href="https://linkedin.com/in/valiant-cb">
+<a href="https://linkedin.com/in/valiantcb">
   <img align="left" alt="LinkedIn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
 
 <p style="margin-left:40px;">
-I'm always open to collaborations, threat research, and blue team roles. Let’s connect and secure something great.
+Connect with me on LinkedIn
 </p>
