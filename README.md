@@ -1,9 +1,5 @@
 # 👋 I’m Valiant. I build detections that expose real threats
 
-I don’t just review alerts. I engineer the logic behind them
-
-I work across Elastic, Sentinel, Zeek, Suricata, PowerShell, Active Directory, and Wireshark to catch what attackers try to hide — from lateral movement to credential theft and persistence techniques
-
 My labs and projects reflect how threats operate in real environments and how defenders should shut them down fast
 
 ---
