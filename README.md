@@ -31,6 +31,9 @@ My labs and projects reflect how threats operate in real environments and how de
 - **[Network Forensics with Wireshark and Zui](https://github.com/Vluthor/Network-Forensics-Analysis-with-Wireshark-and-Zui)**  
   Investigated real PCAPs to extract IOCs, detect C2 traffic, and track attacker movement through the network using Zeek and Suricata
 
+- **[Phishing Investigation – Threat Intelligence Tools](https://github.com/Vluthor/Phishing-Investigation-THM)**  
+  Analyzed spoofed LinkedIn phishing emails using `.eml` files. Extracted sender IPs, header metadata, and malicious payloads. Confirmed malware via VirusTotal and mapped IOCs for SOC visibility
+
 - **[Phishing Email Analysis and Defensive Measures](https://github.com/Vluthor/Phishing-Email-Analysis-and-Defensive-Measures)**  
   Analyzed phishing headers, traced malicious links, and created layered defense playbooks for SOC teams
 
