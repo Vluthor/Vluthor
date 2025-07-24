@@ -81,9 +81,6 @@ My labs and projects reflect how threats operate in real environments and how de
 | Frameworks | PCI DSS, NIST |
 
 ---
-
-Always exploring new ways to expose attacker behavior. This isn’t theory. These are my labs. This is what I do
-
 <a href="https://linkedin.com/in/valiantcb">
   <img align="left" alt="LinkedIn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
