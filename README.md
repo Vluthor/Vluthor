@@ -21,7 +21,7 @@ My labs and projects reflect how threats operate in real environments and how de
 
 ### 🧠 Malware and Forensics
 
-- **[Oski Stealc Malware Analysis](https://github.com/Vluthor/Oski-Malware-Analysis)**  
+- **[Oski Stealc Malware Analysis](https://github.com/Vluthor/Oski-Malware-Analysis-/edit/main/README.md)**  
   Identified self-deletion routines, RC4 encryption behavior, and credential harvesting from password stores. Mapped activity to threat techniques
 
 - **[Network Forensics with Wireshark and Zui](https://github.com/Vluthor/Network-Forensics-Analysis-with-Wireshark-and-Zui)**  
