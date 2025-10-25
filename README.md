@@ -11,7 +11,7 @@ My labs and projects reflect how threats operate in real environments and how de
 - **[Canary Tokens for Early Threat Traps](https://github.com/Vluthor/Canary-Tokens)**  
   Tracked unauthorized access using embedded canary links and decoy documents. Captured attacker metadata instantly for SOC-level visibility
 
-- **[Endpoint Threat Hunting with Elastic](https://github.com/Vluthor/Endpoint-Threat-Hunting)**  
+- **[Endpoint Threat Hunting](https://github.com/Vluthor/-Endpoint-Threat-Hunting/blob/main/README%20(2).md)**  
   Detected LSASS access, scheduled task persistence, and PsExec lateral movement. Used KQL to map attacker actions with clear detection logic
 
 - **[Threat Detection SOC Analysis](https://github.com/Vluthor/Threat-Detection-SOC-Analysis)**  
