@@ -17,6 +17,9 @@ My labs and projects reflect how threats operate in real environments and how de
 - **[Threat Detection SOC Analysis](https://github.com/Vluthor/Threat-Detection-SOC-Analysis)**  
   Documented real-world threat activity from campaigns like ProxyShell, PrintNightmare, and Gootkit. Built detection strategies mapped to MITRE ATT&CK
 
+- **[PupyRAT-MISP Threat Intelligence Analysis](https://github.com/Vluthor/THREAT-INTELLIGENCE-CASE-STUDY)**  
+  Investigated Iranian APT35 PupyRAT campaigns using MISP platform. Identified C2 infrastructure, extracted IOCs, and built detection rules mapped to MITRE ATT&CK for SOC implementation.
+
 ---
 
 ### 🧠 Malware and Forensics
